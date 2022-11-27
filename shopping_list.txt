@@ -4,3 +4,5 @@ Jauho
 banaani
 Paska
 Robotti
+Kukka
+Kakka
