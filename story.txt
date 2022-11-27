@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 You're perfect, you're beautiful, you look like Naomi Campbell
+=======
+You're perfect, you're beautiful, you look like Cindy Crawford
+>>>>>>> remotes/origin/master
 You're a model, everything about you is perfect
 Did you stone those tights?
 Oh, you're smiling!
